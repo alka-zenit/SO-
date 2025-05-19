@@ -1,2 +1,1 @@
-# SO-
-Trabajo SO
+# SO_Mint
